@@ -25,4 +25,8 @@ Mobile sales data (`Day - 30 - Mobile Sales Data.xlsx`) used for this analysis.
 
 ## Key Insights
 
-- Add 3 to 4 findings from your dashboard here (for example, top-selling brand, best month, region with the highest revenue)
+- **[Apple]** is the top-selling brand with total sales of **[161.6M]**, followed by **[OnePlus]** at **[153.7M]**.
+- Sales peaked in **[month]** and dipped in **[month]**.
+- **[City/region]** generated the highest revenue.
+- **[UPI]** was the most popular payment method at **[xx%]** of transactions.
+- **[Day]** had the highest sales across the week.
